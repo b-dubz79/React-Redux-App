@@ -1,10 +1,12 @@
 import React from 'react'
 
-const PhotosList = (props) => {
+const PhotosForm = (props) => {
     return (
-        <></>
+        <>
+        <button>Get Photos</button>
+        </>
         
     )
 }
 
-export default PhotosList
+export default PhotosForm
